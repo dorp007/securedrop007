@@ -8,7 +8,7 @@ ansible-lint==4.2.0 \
     --hash=sha256:b9fc9a6564f5d60a4284497f966f38ef78f0e2505edbe2bd1225f1ade31c2d8a \
     --hash=sha256:eb925d8682d70563ccb80e2aca7b3edf84fb0b768cea3edc6846aac7abdc414a
     # via -r requirements/python3/develop-requirements.in
-ansible==2.9.26 \
+ansible==2.9.27 \
     --hash=sha256:3ae02aad2bbedcfb419ce75ebd2a648e9deb73e9e2d8de86c82d6047b1bdeb63
     # via
     #   -r ../admin/requirements-ansible.in
@@ -910,7 +910,7 @@ typing-extensions==4.2.0 \
     # via
     #   black
     #   semgrep
-ujson==5.3.0 \
+ujson==5.4.0 \
     --hash=sha256:034c07399dff35385ecc53caf9b1f12b3e203834de27b723daeb2cbb3e02ee7f \
     --hash=sha256:089965f964d17905c48cdca88b982d525165e549b438ac86f194c6a9d852fd69 \
     --hash=sha256:1358621686ddfda55171fc98c171bf5b1a80ce4d444134b70e1e449925fa014f \
