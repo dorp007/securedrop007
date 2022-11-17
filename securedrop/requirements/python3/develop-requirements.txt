@@ -8,7 +8,7 @@ ansible-lint==4.2.0 \
     --hash=sha256:b9fc9a6564f5d60a4284497f966f38ef78f0e2505edbe2bd1225f1ade31c2d8a \
     --hash=sha256:eb925d8682d70563ccb80e2aca7b3edf84fb0b768cea3edc6846aac7abdc414a
     # via -r requirements/python3/develop-requirements.in
-ansible==2.9.26 \
+ansible==2.9.27 \
     --hash=sha256:3ae02aad2bbedcfb419ce75ebd2a648e9deb73e9e2d8de86c82d6047b1bdeb63
     # via
     #   -r ../admin/requirements-ansible.in
@@ -261,7 +261,7 @@ colorama==0.4.5 \
     #   molecule
     #   python-gilt
     #   semgrep
-cookiecutter==1.6.0 \
+cookiecutter==2.1.1 \
     --hash=sha256:1316a52e1c1f08db0c9efbf7d876dbc01463a74b155a0d83e722be88beda9a3e \
     --hash=sha256:ed8f54a8fc79b6864020d773ce11539b5f08e4617f353de1f22d23226f6a0d36
     # via molecule
@@ -549,7 +549,7 @@ packaging==21.3 \
     #   pytest
     #   safety
     #   semgrep
-paramiko==2.6.0 \
+paramiko==2.10.1 \
     --hash=sha256:99f0179bdc176281d21961a003ffdb2ec369daac1a1007241f53374e376576cf \
     --hash=sha256:f4b2edfa0d226b70bd4ca31ea7e389325990283da23465d572ed1f70a7583041
     # via molecule
@@ -1010,7 +1010,7 @@ pip==21.3 \
     # via
     #   -r requirements/python3/develop-requirements.in
     #   pip-tools
-setuptools==56.0.0 \
+setuptools==65.5.1 \
     --hash=sha256:08a1c0f99455307c48690f00d5c2ac2c1ccfab04df00454fef854ec145b81302 \
     --hash=sha256:7430499900e443375ba9449a9cc5d78506b801e929fef4a186496012f93683b5
     # via
