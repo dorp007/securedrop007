@@ -138,7 +138,7 @@ jinja2==3.0.2 \
     #   -r requirements/python3/securedrop-app-code-requirements.in
     #   flask
     #   flask-babel
-mako==1.0.7 \
+mako==1.2.2 \
     --hash=sha256:4e02fde57bd4abb5ec400181e4c314f56ac3e49ba4fb8b0d50bba18cb27d25ae
     # via alembic
 markupsafe==2.0.1 \
