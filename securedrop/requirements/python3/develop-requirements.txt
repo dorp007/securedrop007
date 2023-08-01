@@ -143,7 +143,7 @@ boto==2.48.0 \
     --hash=sha256:13be844158d1bd80a94c972c806ec8381b9ea72035aa06123c5db6bc6a6f3ead \
     --hash=sha256:deb8925b734b109679e3de65856018996338758f4b916ff4fe7bb62b6d7000d1
     # via -r requirements/python3/develop-requirements.in
-botocore==1.8.38 \
+botocore==1.9.12 \
     --hash=sha256:1e82d18c23ba0c2251404aee33483e82729e5d4b1838c528206f2ed2ba4516cd \
     --hash=sha256:aa0aa83766b1dbb23f67d807222d78ab5ba528c23be5e7ffca7d8643e6224272
     # via
