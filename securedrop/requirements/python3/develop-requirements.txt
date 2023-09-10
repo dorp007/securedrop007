@@ -826,7 +826,7 @@ selinux==0.2.1 \
     --hash=sha256:820adcf1b4451c9cc7759848797703263ba0eb6a4cad76d73548a9e0d57b7926 \
     --hash=sha256:d435f514e834e3fdc0941f6a29d086b80b2ea51b28112aee6254bd104ee42a74
     # via molecule-vagrant
-semgrep==0.98.0 \
+semgrep==1.25.0 \
     --hash=sha256:26082d1b2f4c0b8c56bac72cc6af92ec4a13e17764b7547cb43145d327bbd115 \
     --hash=sha256:69adda816af99632554dda17d2697a0aa80e4ef6ef32204947c3077d22d5478f \
     --hash=sha256:c46dea0f4ee823f3472cef9e59a60ad6e5e5e8202353a0af1fedbf12533432d6 \
