@@ -962,7 +962,7 @@ ujson==5.3.0 \
     --hash=sha256:ed9809bc36292e0d3632d50aae497b5827c1a2e07158f7d4d5c53e8e8662bf66 \
     --hash=sha256:f615ee181b813c8f50a57d55354d0c0304a0be066962efdbef6f44517b26e3b2
     # via python-lsp-jsonrpc
-urllib3==1.26.6 \
+urllib3==1.26.17 \
     --hash=sha256:39fb8672126159acb139a7718dd10806104dec1e2f0f6c88aab05d17df10c8d4 \
     --hash=sha256:f57b4c16c62fa2760b7e3d97c35b255512fb6b59a259730f36ba32ce9f8e342f
     # via
