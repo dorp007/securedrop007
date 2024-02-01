@@ -91,7 +91,7 @@ click==8.0.3 \
     # via
     #   flask
     #   rq
-cryptography==39.0.1 \
+cryptography==42.0.2 \
     --hash=sha256:0f1212a66329c80d68aeeb39b8a16d54ef57071bf22ff4e521657b27372e327d \
     --hash=sha256:1e056c28420c072c5e3cb36e2b23ee55e260cb04eee08f702e0edfec3fb51959 \
     --hash=sha256:240f5c21aef0b73f40bb9f78d2caff73186700bf1bc6b94285699aff98cc16c6 \
