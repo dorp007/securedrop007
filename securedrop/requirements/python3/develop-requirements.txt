@@ -57,7 +57,7 @@ attrs==21.4.0 \
     #   jsonschema
     #   pytest
     #   semgrep
-bandit==1.7.0 \
+bandit==1.7.7 \
     --hash=sha256:216be4d044209fa06cf2a3e51b319769a51be8318140659719aa7a115c35ed07 \
     --hash=sha256:8a4c7415254d75df8ff3c3b15cfe9042ecee628a1e40b44c15a98890fbfc2608
     # via -r requirements/python3/develop-requirements.in
