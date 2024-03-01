@@ -566,7 +566,7 @@ pbr==5.1.1 \
     #   git-url-parse
     #   python-gilt
     #   stevedore
-peewee==3.15.0 \
+peewee==3.17.1 \
     --hash=sha256:48eac70be812ac84daa5400fb8e7b545e0c83adcfa05c8e2a8612f9ced4da495
     # via semgrep
 pep517==0.10.0 \
