@@ -261,7 +261,7 @@ colorama==0.4.5 \
     #   molecule
     #   python-gilt
     #   semgrep
-cookiecutter==1.6.0 \
+cookiecutter==2.1.1 \
     --hash=sha256:1316a52e1c1f08db0c9efbf7d876dbc01463a74b155a0d83e722be88beda9a3e \
     --hash=sha256:ed8f54a8fc79b6864020d773ce11539b5f08e4617f353de1f22d23226f6a0d36
     # via molecule
