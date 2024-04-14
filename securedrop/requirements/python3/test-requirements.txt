@@ -91,7 +91,7 @@ hypothesis==4.22.2 \
     --hash=sha256:ce7c4a46823f73e9ef548f10963095bf82c787646a09d1886979f007c74b07cc \
     --hash=sha256:e97ef0a17a6dfb3873aa7e4ef3e6398d5b5ee7fbc5923f2cebfa4a1d5f9eb44b
     # via -r requirements/python3/test-requirements.in
-idna==2.8 \
+idna==3.7 \
     --hash=sha256:c357b3f628cf53ae2c4c05627ecc484553142ca23264e593d327bcde5e9c3407 \
     --hash=sha256:ea8b7f6188e6fa117537c3df7da9fc686d485087abf6ac197f9c46432f7e4a3c
     # via requests
