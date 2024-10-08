@@ -549,7 +549,7 @@ packaging==21.3 \
     #   pytest
     #   safety
     #   semgrep
-paramiko==2.6.0 \
+paramiko==3.4.0 \
     --hash=sha256:99f0179bdc176281d21961a003ffdb2ec369daac1a1007241f53374e376576cf \
     --hash=sha256:f4b2edfa0d226b70bd4ca31ea7e389325990283da23465d572ed1f70a7583041
     # via molecule
